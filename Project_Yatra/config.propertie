@@ -1,0 +1,9 @@
+browser = firefox
+url= https://www.yatra.com/
+city= Nagpur
+checkInDate=29/02/2020
+checkOutDate=01/03/2020
+totalNoOfPassenger= 3
+hotel= The Pride Hotel Nagpur
+roomType=Suite Double
+maximumAmount= 10000
